@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: white;
+     font-family: "Mate SC", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+#a{
+    text-align: center;
+    margin: 7px;
+}
+h2{
+    background-color: white;
+    color: black;
+    margin: 7px;
+
+}
+h3{
+   text-align: end;
+   
+
+}
+h4{
+    text-align: end;
+    
+   
+}
+div{
+    display: flex;
+    background-color: white;
+    color:black
+}
+.div2{
+    margin-top: 7px;
+}
+.div3{
+    margin-top: 7px;
+}
+.div4{
+    margin-top: 7px;
+}
+.div5{
+    margin-top: 7px;
+}
+.div6{
+    margin-top: 7px;
+}
+.div7{
+    margin-top: 7px;
+}
+.div8{
+    margin-top: 7px;
+}
+.div9{
+    margin-top: 7px;
+}

@@ -1,0 +1,20 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Mate SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: black;
+    color: white;
+}
+#topo2{
+    text-align: center;
+}
+.texto{
+    display: flex;
+    justify-content: center;
+}
